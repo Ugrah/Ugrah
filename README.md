@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Ugrah
-- 📫 grulog@live.com
-- 📫 lobognonulrichgrah@outlook.fr
 
 <!---
 Ugrah/Ugrah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
